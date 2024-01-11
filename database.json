@@ -1,0 +1,16 @@
+{
+    "quiz":[
+        {
+           " question":"asuult1",
+           "answer":["1", "2", "3", "4"]
+        },
+        {
+            " question":"asuult2",
+            "answer":["1", "2", "3", "4"]
+         },
+         {
+            " question":"asuult3",
+            "answer":["1", "2", "3", "4"]
+         }
+    ]
+}
